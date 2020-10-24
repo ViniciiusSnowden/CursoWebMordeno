@@ -10,7 +10,7 @@ Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL.
 
 
 
-## O que você aprenderá
+## O que estou apredendo
  - Tudo que vc precisa saber para construir aplicações modernas para Web
  - Criar aplicações REAIS usando as mais modernas tecnologias do mercado
  - Últimos recursos de HTML, CSS, Javascript e vários frameworks
