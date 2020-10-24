@@ -2,7 +2,7 @@
 
 
 ## Este repositório tem um intuito de guarda meus exercicios
-do curso de web moderno que estou fazendo na Udemy.
+## do curso de web moderno que estou fazendo na Udemy.
 
 Nome do Curso Web Moderno Completo com JavaScript 2020 + Projetos
 
