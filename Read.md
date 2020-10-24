@@ -1,7 +1,7 @@
-# Curso de WEB Moderno 
+# Curso de WEB Moderno
 
 
-##Este repositório tem um intuito de guarda meus exercicios
+## Este repositório tem um intuito de guarda meus exercicios
 do curso de web moderno que estou fazendo na Udemy.
 
 Nome do Curso Web Moderno Completo com JavaScript 2020 + Projetos
@@ -11,7 +11,7 @@ Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL.
 
 
 
-##O que você aprenderá
+## O que você aprenderá
  - Tudo que vc precisa saber para construir aplicações modernas para Web
  - Criar aplicações REAIS usando as mais modernas tecnologias do mercado
  - Últimos recursos de HTML, CSS, Javascript e vários frameworks
